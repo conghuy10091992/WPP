@@ -1,6 +1,376 @@
 {
   "code": 1,
   "ads_flag": true,
+  "barIcon": [
+    {
+      "name": "img_1.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_1.png"
+    },
+    {
+      "name": "img_2.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_2.png"
+    },
+    {
+      "name": "img_3.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_3.png"
+    },
+    {
+      "name": "img_4.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_4.png"
+    },
+    {
+      "name": "img_5.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_5.png"
+    },
+    {
+      "name": "img_6.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_6.png"
+    },
+    {
+      "name": "img_7.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_7.png"
+    },
+    {
+      "name": "img_8.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_8.png"
+    },
+    {
+      "name": "img_9.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_9.png"
+    },
+    {
+      "name": "img_10.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_10.png"
+    },
+    {
+      "name": "img_11.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_11.png"
+    },
+    {
+      "name": "img_12.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_12.png"
+    },
+    {
+      "name": "img_13.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_13.png"
+    },
+    {
+      "name": "img_14.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_14.png"
+    },
+    {
+      "name": "img_15.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_15.png"
+    },
+    {
+      "name": "img_16.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_16.png"
+    },
+    {
+      "name": "img_17.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_17.png"
+    },
+    {
+      "name": "img_18.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_18.png"
+    },
+    {
+      "name": "img_19.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_19.png"
+    },
+    {
+      "name": "img_20.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_20.png"
+    },
+    {
+      "name": "img_21.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_21.png"
+    },
+    {
+      "name": "img_22.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_22.png"
+    },
+    {
+      "name": "img_23.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_23.png"
+    },
+    {
+      "name": "img_24.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_24.png"
+    },
+    {
+      "name": "img_25.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_25.png"
+    },
+    {
+      "name": "img_26.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_26.png"
+    },
+    {
+      "name": "img_27.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_27.png"
+    },
+    {
+      "name": "img_28.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_28.png"
+    },
+    {
+      "name": "img_29.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_29.png"
+    },
+    {
+      "name": "img_30.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_30.png"
+    },
+    {
+      "name": "img_31.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_31.png"
+    },
+    {
+      "name": "img_32.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_32.png"
+    },
+    {
+      "name": "img_33.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_33.png"
+    },
+    {
+      "name": "img_34.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_34.png"
+    },
+    {
+      "name": "img_35.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_35.png"
+    },
+    {
+      "name": "img_36.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_36.png"
+    },
+    {
+      "name": "img_37.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_37.png"
+    },
+    {
+      "name": "img_38.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_38.png"
+    },
+    {
+      "name": "img_39.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_39.png"
+    },
+    {
+      "name": "img_40.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_40.png"
+    },
+    {
+      "name": "img_41.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_41.png"
+    },
+    {
+      "name": "img_42.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_42.png"
+    },
+    {
+      "name": "img_43.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_43.png"
+    },
+    {
+      "name": "img_44.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_44.png"
+    },
+    {
+      "name": "img_45.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_45.png"
+    },
+    {
+      "name": "img_46.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_46.png"
+    },
+    {
+      "name": "img_47.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_47.png"
+    },
+    {
+      "name": "img_48.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_48.png"
+    },
+    {
+      "name": "img_49.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_49.png"
+    },
+    {
+      "name": "img_50.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_50.png"
+    },
+    {
+      "name": "img_51.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_51.png"
+    },
+    {
+      "name": "img_52.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_52.png"
+    },
+    {
+      "name": "img_53.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_53.png"
+    },
+    {
+      "name": "img_54.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_54.png"
+    },
+    {
+      "name": "img_55.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_55.png"
+    },
+    {
+      "name": "img_56.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_56.png"
+    },
+    {
+      "name": "img_57.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_57.png"
+    },
+    {
+      "name": "img_58.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_58.png"
+    },
+    {
+      "name": "img_59.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_59.png"
+    },
+    {
+      "name": "img_60.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_60.png"
+    },
+    {
+      "name": "img_61.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_61.png"
+    },
+    {
+      "name": "img_62.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_62.png"
+    },
+    {
+      "name": "img_63.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_63.png"
+    },
+    {
+      "name": "img_64.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_64.png"
+    },
+    {
+      "name": "img_65.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_65.png"
+    },
+    {
+      "name": "img_66.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_66.png"
+    },
+    {
+      "name": "img_67.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_67.png"
+    },
+    {
+      "name": "img_68.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_68.png"
+    },
+    {
+      "name": "img_69.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_69.png"
+    },
+    {
+      "name": "img_70.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_70.png"
+    },
+    {
+      "name": "img_71.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_71.png"
+    },
+    {
+      "name": "img_72.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_72.png"
+    },
+    {
+      "name": "img_73.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_73.png"
+    },
+    {
+      "name": "img_74.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_74.png"
+    },
+    {
+      "name": "img_75.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_75.png"
+    },
+    {
+      "name": "img_76.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_76.png"
+    },
+    {
+      "name": "img_77.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_77.png"
+    },
+    {
+      "name": "img_78.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_78.png"
+    },
+    {
+      "name": "img_79.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_79.png"
+    },
+    {
+      "name": "img_80.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_80.png"
+    },
+    {
+      "name": "img_81.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_81.png"
+    },
+    {
+      "name": "img_82.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_82.png"
+    },
+    {
+      "name": "img_83.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_83.png"
+    },
+    {
+      "name": "img_84.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_84.png"
+    },
+    {
+      "name": "img_85.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_85.png"
+    },
+    {
+      "name": "img_86.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_86.png"
+    },
+    {
+      "name": "img_87.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_87.png"
+    },
+    {
+      "name": "img_88.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_88.png"
+    },
+    {
+      "name": "img_89.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_89.png"
+    },
+    {
+      "name": "img_90.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_90.png"
+    },
+    {
+      "name": "img_91.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_91.png"
+    },
+    {
+      "name": "img_92.png",
+      "barThumbnail": "https://conghuy10091992.github.io/WPP/barIcon/img_92.png"
+    }
+  ],
   "list": [
     {
       "name": "Assassin",
