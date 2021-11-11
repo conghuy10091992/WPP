@@ -80,6 +80,11 @@
   ],
   "latest": [
     {
+      "name": "Violet",
+      "thumbnail": "https://sn3302files.storage.live.com/y4m9Hfaoa7J1djxlKQpnlY2U7laTEAzlQhroESwdGzUapY4J06s0Hr4wFdeIFp5qgr2W05eryhFodzMu7Z-RvswTv-mBERIqWj1DpJ-abxzd5qgSXag1CG0D5YPmFPRRpx8SAp9pig8_g-14PLSJIO_NQXzs3nmqt8LDDxBzNj-d1gMJPm5hVFH61PpOFYXYpZJn1KB677VM1Zk4el4i8_QSQ/05B5F9421B5096633CC99CD1E6B2702B.PNG?psid=1",
+      "isLock": true
+    },
+    {
       "name": "Raz",
       "thumbnail": "https://sn3302files.storage.live.com/y4mWi0VUxtxAcrNjy9kONQSunWs6QniVkW5e02Mc1ZcB1QZJDd8BcCo6Vgl4CX9sXvhkB0z3txGbro1LVXZ1nMHjQymcT0Hwj0Lw8xbm7Ay4XArhEQn54zVZhngLNp3F7w-iuO1fesM4Hp8iqJDuSwcpxNNvBGY8SbERmyudHeaFTOMQ9L0ILyK2xw_jhK8y34g3vmRF2L2lNVi69AdA41Uqw/54D5239C2CB48BE1ABA51E6A9D33BD93.PNG?psid=1",
       "isLock": true
@@ -1990,6 +1995,11 @@
             {
               "name": "Violet",
               "thumbnail": "https://sn3302files.storage.live.com/y4m1VO80WEhtGhr-CedPm0yRuPbL4iTgE-D7JW7znStiVxt1hd4_CwoYHA3KxlBdMVkvk_7cHYFlSQcjQhSuyGWU9SKFMdlDQjjOeufJd2-vuCwBdQZHh5uYyJKa7NDD6RMhtRa8DlZWHmzwZ4CyuI41pzPM91aqqyjvvbkgGHgGZZMQsi0-QOtCVI8lawsB4Z49k6I95_vLCT7ZNswNU-6ww/5C174BB969E3D65C415487D6A5FE9231.PNG?psid=1",
+              "isLock": true
+            },
+            {
+              "name": "Violet",
+              "thumbnail": "https://sn3302files.storage.live.com/y4m9Hfaoa7J1djxlKQpnlY2U7laTEAzlQhroESwdGzUapY4J06s0Hr4wFdeIFp5qgr2W05eryhFodzMu7Z-RvswTv-mBERIqWj1DpJ-abxzd5qgSXag1CG0D5YPmFPRRpx8SAp9pig8_g-14PLSJIO_NQXzs3nmqt8LDDxBzNj-d1gMJPm5hVFH61PpOFYXYpZJn1KB677VM1Zk4el4i8_QSQ/05B5F9421B5096633CC99CD1E6B2702B.PNG?psid=1",
               "isLock": true
             }
           ]
