@@ -80,6 +80,21 @@
   ],
   "latest": [
     {
+      "name": "Rouie",
+      "thumbnail": "https://sn3302files.storage.live.com/y4mvcy2okei5AFxz_r9cvi2QnkAU2AVmRE1gjKH_7fpomUqG97AUvCv2yyfkCqq8688YjXsMqonUkspKOFgo1vCju8kUQSJzfe847DbsxGB7PpcV5Z-9Ir37aIUke7TvR6wApg0imXeYzS_03kS4FE-rSWR7lrBfPp7e-PpP13SybPyEHLxErD-gGxn-Ra-TqUe9UcJTXzKO3hsFH8F_0nu2w/4F1D3CC2386833FDB34EEFC3212E9BB1.PNG?psid=1",
+      "isLock": true
+    },
+    {
+      "name": "Wisp",
+      "thumbnail": "https://sn3302files.storage.live.com/y4mqULwIDZmZ33As6ql6WZ-B9lQxp0OPIV05VTTwT8Q99FLGnRGr7hJxY3_lzdou0fQ-oXUloTNVfaaC5Uat7VNbj1_YHMAdAlE48CPlQZVgWb4IlPmK-7mKSM9DVz-2HdHf0TYHYOf1oPo6pLWqx8RatiPKFndtQXkQsbNhlE1heZz6qtN-HThbvvwzTrJVyYQQCU-2QftMkZ5K7D126FePg/2DAE3E835365065E611FD541D84864BA.PNG?psid=1",
+      "isLock": true
+    },
+    {
+      "name": "Ryoma",
+      "thumbnail": "https://sn3302files.storage.live.com/y4mNnkA1MqANLirwHNe3ajuatDGW6vuXjjqzrieTYlOO0MnM-asO5tcsLTL1CXJtTfBXCIsKBdVx1rnc3Y1LXO-FrDHjV2WYfS7cee_7vUou_pR0GZ4a5odsqmbmrVxopH-lI0L_AH2WSWId54p_sH1TvZPu9PvSg1f4-f42ahV8AAtSkTwYTzhTeHn-1gar71iPGkMeekt2Af8BuwBvWVZ0g/CC178E01FF144193868CA2104761A5F4.PNG?psid=1",
+      "isLock": true
+    },
+    {
       "name": "Violet",
       "thumbnail": "https://sn3302files.storage.live.com/y4m9Hfaoa7J1djxlKQpnlY2U7laTEAzlQhroESwdGzUapY4J06s0Hr4wFdeIFp5qgr2W05eryhFodzMu7Z-RvswTv-mBERIqWj1DpJ-abxzd5qgSXag1CG0D5YPmFPRRpx8SAp9pig8_g-14PLSJIO_NQXzs3nmqt8LDDxBzNj-d1gMJPm5hVFH61PpOFYXYpZJn1KB677VM1Zk4el4i8_QSQ/05B5F9421B5096633CC99CD1E6B2702B.PNG?psid=1",
       "isLock": true
@@ -2557,14 +2572,9 @@
           "thumbnail": "https://sn3302files.storage.live.com/y4mK9rlCqu_8ciBZQtX_iXMUFow0_-TkJrQVEHhWDaW4Do7mNTZbsiHdPTTQZmpesANIIGzuBtcw0sAHY12gLs6PTRKtLhzJhYqOktwtbdPJindeCE8PjHeJYkwsOO1Sg67YDf2W-PNw1PUDJKA7COHnXY1V7M-niHRjiFavf3BCD87VuWmw_u-p9hXEWAQTWL-O_129AgdV-zSPrptPiWAjA/23AA745024836EDB2916BF8D62F5BF6C.PNG?psid=1",
           "list": [
             {
-              "name": "Rouie",
+              "name": "Aya",
               "thumbnail": "https://sn3302files.storage.live.com/y4mZNa0yFWOYfjxZ3top983J4DN3-w_19MRZuXZhFqW54EG_2xIkf7ggcUL7bmxbeBx8KWzyZ4ev-NO7A1rat4ly6YLPR6po3YAFSYWehcJKrctytlRflIzPy7tskBZK-x41de8ZMOTU_xeLuBgn0HLGSzrEqeCFhx_cjYRQ31PiX3HCBIvkcNEXXWGTJlxplHocRPAZn4n-uLWU_oxf9a2XA/1EC4883F69E4FF288B877A256ED713A7.PNG?psid=1",
               "isLock": false
-            },
-             {
-              "name": "Rouie",
-              "thumbnail": "https://sn3302files.storage.live.com/y4mvcy2okei5AFxz_r9cvi2QnkAU2AVmRE1gjKH_7fpomUqG97AUvCv2yyfkCqq8688YjXsMqonUkspKOFgo1vCju8kUQSJzfe847DbsxGB7PpcV5Z-9Ir37aIUke7TvR6wApg0imXeYzS_03kS4FE-rSWR7lrBfPp7e-PpP13SybPyEHLxErD-gGxn-Ra-TqUe9UcJTXzKO3hsFH8F_0nu2w/4F1D3CC2386833FDB34EEFC3212E9BB1.PNG?psid=1",
-              "isLock": true
             }
           ]
         },
@@ -2576,6 +2586,11 @@
               "name": "Rouie",
               "thumbnail": "https://sn3302files.storage.live.com/y4mJUuUk8J-swu4TaWY20ba4hm49t9jeIozH0EJY-kqixTAAvKPI1shIjl3-KgOJgCo-GDQJ7GesmcYVx8FyuiNCBxi3t32PUkoMOAX5xy6qNa2ekkw-nhOt0JqIjCwJXHZEBqwSaDJXOGk46_gSNYmL2DFpYaZiqFaiVzhzUvdMVhRd1t3vLK50yx2cKPl_Ff33R7_oko5Ov831BesjMUHpg/F0ACAD15D9944E7B99E590CC271131D0.jpg?psid=1",
               "isLock": false
+            },
+             {
+              "name": "Rouie",
+              "thumbnail": "https://sn3302files.storage.live.com/y4mvcy2okei5AFxz_r9cvi2QnkAU2AVmRE1gjKH_7fpomUqG97AUvCv2yyfkCqq8688YjXsMqonUkspKOFgo1vCju8kUQSJzfe847DbsxGB7PpcV5Z-9Ir37aIUke7TvR6wApg0imXeYzS_03kS4FE-rSWR7lrBfPp7e-PpP13SybPyEHLxErD-gGxn-Ra-TqUe9UcJTXzKO3hsFH8F_0nu2w/4F1D3CC2386833FDB34EEFC3212E9BB1.PNG?psid=1",
+              "isLock": true
             }
           ]
         },
