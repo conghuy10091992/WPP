@@ -5,7 +5,7 @@
      "useAds": false,
      "banner": "banner",
      "interstitial": "interstitial",
-     "native": "native",
+     "nativeAds": "native",
      "open": "open",
      "reward": "reward"
   },
