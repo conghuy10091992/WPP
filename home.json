@@ -2,7 +2,7 @@
   "code": 37,
   "ads_flag": true,
   "adsUnit": {
-     "useAds": true,
+     "useAds": false,
      "banner": "banner",
      "interstitial": "interstitial",
      "nativeAds": "native",
