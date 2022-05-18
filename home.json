@@ -3,11 +3,11 @@
   "ads_flag": true,
   "adsUnit": {
      "useAds": false,
-     "banner": "banner",
-     "interstitial": "interstitial",
-     "nativeAds": "native",
-     "open": "open",
-     "reward": "reward"
+     "banner": "ca-app-pub-9926037208330799/2176445668",
+     "interstitial": "ca-app-pub-9926037208330799/8175715440",
+     "nativeAds": "ca-app-pub-9926037208330799/4206920932",
+     "open": "ca-app-pub-9926037208330799/9438275627",
+     "reward": "ca-app-pub-9926037208330799/1055418104"
   },
   "mostDownload": [
     {
