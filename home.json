@@ -2,7 +2,7 @@
   "code": 37,
   "ads_flag": true,
   "adsUnit": {
-     "useAds": true,
+     "useAds": false,
      "banner": "ca-app-pub-9926037208330799/2176445668",
      "interstitial": "ca-app-pub-9926037208330799/8175715440",
      "nativeAds": "ca-app-pub-9926037208330799/4206920932",
